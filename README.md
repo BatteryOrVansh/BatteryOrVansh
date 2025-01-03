@@ -7,14 +7,18 @@
 - 📫 How to reach me: [Email](mailto:your-email@example.com)
 - ⚡ Fun fact: I love solving coding problems and building projects.
 
-## My Projects
+## My Favourite Repositories
 - [C Practice Problems and Solutions](https://github.com/BatteryOrVansh/C_Tutorial): Solutions to C programming problems from Apna College course.
-- [Project 2](https://github.com/BatteryOrVansh/Project2): Description of your second project.
-- [Project 3](https://github.com/BatteryOrVansh/Project3): Description of your third project.
+- [Me learning JavaScript](https://github.com/BatteryOrVansh/Project2](https://github.com/BatteryOrVansh/JavaScript)): Learning from Chai Aur Code JavaScipt One Shot
+- [Data Visualisation with Python]([https://github.com/BatteryOrVansh/Project3](https://github.com/BatteryOrVansh/Python-lrng)): My learning curve in Data Visualisation with various plots and technologies that i learned through various amazing classes in college
+
+## MY HACKATHON PROJECT 
+- [Study session Website](https://github.com/BatteryOrVansh/Project3](https://github.com/BatteryOrVansh/study-session-website)): This was created by my friends for a hackathon in which i was the content curator and gave ideas. 
+
 
 ## GitHub Stats
 ![Vansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=BatteryOrVansh&show_icons=true&theme=radical)
 
 ## Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-- [Twitter](https://twitter.com/your-twitter-handle)
+- [LinkedIn](https://www.linkedin.com/in/vanshdixit/)
+- [Twitter](https://x.com/DixitOnX)
