@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning C Programming and other programming languages.
 - 👯 I’m looking to collaborate on open source projects.
 - 💬 Ask me about C, Python, or any other programming languages.
-- 📫 How to reach me: [Email](officialvanshdixit@gmail.com)
+- 📫 How to reach me: officialvanshdixit@gmail.com
 - ⚡ Fun fact: I love solving coding problems and building projects.
 
 ## My Favourite Repositories
