@@ -4,16 +4,16 @@
 - 🌱 I’m currently learning C Programming and other programming languages.
 - 👯 I’m looking to collaborate on open source projects.
 - 💬 Ask me about C, Python, or any other programming languages.
-- 📫 How to reach me: [Email](mailto:your-email@example.com)
+- 📫 How to reach me: [Email](officialvanshdixit@gmail.com)
 - ⚡ Fun fact: I love solving coding problems and building projects.
 
 ## My Favourite Repositories
-- [C Practice Problems and Solutions](https://github.com/BatteryOrVansh/C_Tutorial): Solutions to C programming problems from Apna College course.
-- [Me learning JavaScript](https://github.com/BatteryOrVansh/Project2](https://github.com/BatteryOrVansh/JavaScript)): Learning from Chai Aur Code JavaScipt One Shot
-- [Data Visualisation with Python]([https://github.com/BatteryOrVansh/Project3](https://github.com/BatteryOrVansh/Python-lrng)): My learning curve in Data Visualisation with various plots and technologies that i learned through various amazing classes in college
+- [C Practice Problems and Solutions](https://github.com/BatteryOrVansh/C): Solutions to C programming problems from Apna College course.
+- [Me learning JavaScript](https://github.com/BatteryOrVansh/JavaScript): Learning from Chai Aur Code JavaScipt One Shot
+- [Data Visualisation with Python](https://github.com/BatteryOrVansh/Python-lrng): My learning curve in Data Visualisation with various plots and technologies that i learned through various amazing classes in college
 
 ## MY HACKATHON PROJECT 
-- [Study session Website](https://github.com/BatteryOrVansh/Project3](https://github.com/BatteryOrVansh/study-session-website)): This was created by my friends for a hackathon in which i was the content curator and gave ideas. 
+- [Study session Website](https://github.com/BatteryOrVansh/study-session-website): This was created by my friends for a hackathon in which i was the content curator and gave ideas. 
 
 
 ## GitHub Stats
